@@ -20,8 +20,8 @@
     <properties>
         <java.version>25</java.version>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.organization>sayuvvy</sonar.organization>
-        <sonar.projectKey>sayuvvy_sonarqubewithcoverage</sonar.projectKey>
+        <sonar.organization>conversioncode</sonar.organization>
+        <sonar.projectKey>ConversionCode_sonarqubewithcoverage</sonar.projectKey>
         <sonar.coverage.jacoco.xmlReportPaths>target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
     </properties>
 
