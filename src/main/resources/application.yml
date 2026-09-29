@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-boot4-jdk25-demo
+  threads:
+    virtual:
+      enabled: true
+
+server:
+  port: 8080
