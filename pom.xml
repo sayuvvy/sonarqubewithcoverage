@@ -12,10 +12,10 @@
     </parent>
 
     <groupId>com.example</groupId>
-    <artifactId>spring-boot4-jdk25-demo</artifactId>
+    <artifactId>sonarqubewithcoverage</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot4-jdk25-demo</name>
-    <description>Sample Spring Boot 4 application built on JDK 25</description>
+    <name>sonarqubewithcoverage</name>
+    <description>Sample Spring Boot 4 application built on JDK 25, with tests and JaCoCo coverage for SonarCloud</description>
 
     <properties>
         <java.version>25</java.version>

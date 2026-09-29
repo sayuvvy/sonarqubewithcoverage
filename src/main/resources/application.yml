@@ -1,6 +1,6 @@
 spring:
   application:
-    name: spring-boot4-jdk25-demo
+    name: sonarqubewithcoverage
   threads:
     virtual:
       enabled: true
