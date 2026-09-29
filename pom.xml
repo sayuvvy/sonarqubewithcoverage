@@ -23,6 +23,7 @@
         <sonar.organization>conversioncode</sonar.organization>
         <sonar.projectKey>ConversionCode_sonarqubewithcoverage</sonar.projectKey>
         <sonar.coverage.jacoco.xmlReportPaths>target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
+        <sonar.coverage.exclusions>**/DemoApplication.java</sonar.coverage.exclusions>
     </properties>
 
     <dependencies>
